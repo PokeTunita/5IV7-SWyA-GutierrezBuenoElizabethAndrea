@@ -10,9 +10,10 @@ body{
     width: 70%;
     background-color: beige;
     box-shadow: 5px 5px 5px #646362a9;
+    padding-bottom: 2%;
 }
 .titulo{
-    font-size: 28px;
+    font-size: 30px;
     text-align: center;
     font-weight: 900;
     padding-top: 1px;
@@ -33,10 +34,32 @@ body{
 .bloquecitos{
     display: inline-block;
     width: 40%;
-    margin:4%
+    margin:4%;
+    padding-top: 0;
 }
 .listita{
     text-align: justify;
-    font-size: 20;
+    font-size: 18px;
     font-weight: bold;
+}
+.gatito{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-items: center;
+}
+.texto{
+    text-align: center;
+    font-size: 26px;
+}
+.boton{
+    color: bisque;
+    background: linear-gradient(89deg, rgb(241, 44, 209), rgb(230, 0, 191), rgb(255, 40, 219));
+    border-radius: 15px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 20px;
+    height: 40px;
+    width: 120px;
+    box-shadow: 1px 1px 1px #646362a9;
 }
