@@ -1,7 +1,6 @@
 body{
-    background-color: white;
-    font-family: cursive ;
-    color: black;
+    color: rgb(10, 4, 0);
+    font-family: cursive;
     line-height: 1.3rem ;
     font-size: 1 rem;
     margin: 0;
@@ -12,7 +11,6 @@ body{
     width: 40%;
     margin-left: 30%;
     margin-right: 30%;
-    box-shadow: 10px 5px 10px #e20c77;
 }
 .des{
     border: solid black 2px;
@@ -20,7 +18,6 @@ body{
     width: 40%;
     margin-left: 30%;
     margin-right: 30%;
-    box-shadow: 10px 5px 10px #e20c77;
 }
 .resultado{
     border: solid black 2px;
@@ -28,7 +25,6 @@ body{
     width: 40%;
     margin-left: 30%;
     margin-right: 30%;
-    box-shadow: 10px 5px 10px #e20c77;
 }
 .botones{
     border: solid black 2px;
